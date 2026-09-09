@@ -1,0 +1,2 @@
+bugfixes:
+  - Fix changelog fragment YAML parsing for ``aap_config_validate_improvements`` so automated release lint passes.
